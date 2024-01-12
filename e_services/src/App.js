@@ -5,7 +5,7 @@ import MainRoutes from './pages/MainRoutes';
 
 function App() {
   return (
-    <div className='bg-slate-50' >
+    <div className='bg-slate-50 text-gray-700 box-border' >
     <Navbar />
     <MainRoutes />
     </div>
