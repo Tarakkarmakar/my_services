@@ -51,3 +51,21 @@ To run the app locally, use the following command:
 ```bash
 npm start
 
+
+
+
+# Some View of the application:
+
+# Home 
+
+![Screenshot (41)](https://github.com/Tarakkarmakar/my_services/assets/110048573/faa43384-e741-4418-a53b-c5554aa5f329)
+
+# About 
+
+![Screenshot (42)](https://github.com/Tarakkarmakar/my_services/assets/110048573/156acca8-94d1-44d9-8c78-18404093178f)
+
+# Dashboard
+![Screenshot (43)](https://github.com/Tarakkarmakar/my_services/assets/110048573/3f3e19c3-4df8-4c8e-a325-65751274cc9a)
+
+
+
