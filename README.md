@@ -54,19 +54,7 @@ npm start
 
 
 
-# Some Views of the application:
 
-# Home 
-
-<img src="https://github.com/Tarakkarmakar/my_services/assets/110048573/75f29ef8-de66-4c13-a979-0fda2d2d73fb">
-![Screenshot (41)](https://github.com/Tarakkarmakar/my_services/assets/110048573/75f29ef8-de66-4c13-a979-0fda2d2d73fb)
-
-
-# About 
-
-
-
-# Dashboard
 
 
 
