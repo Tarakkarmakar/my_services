@@ -29,13 +29,13 @@ Before you start, ensure you have the following installed:
 1. **Clone the repository:**
 
     ```bash
-    git clone 
+    git clone https://github.com/Tarakkarmakar/my_services.git
     ```
 
 2. **Navigate to the project directory:**
 
     ```bash
-    cd e-service
+    cd e_services
     ```
 
 3. **Install dependencies:**
